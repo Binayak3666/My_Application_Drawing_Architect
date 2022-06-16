@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T05:20:26.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kTByhnbYnzka4fG5wz_9" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-16T05:21:20.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kpKWf8QDNyrN87-mqLuI" version="20.0.1" type="github" pages="3">
   <diagram id="CiIdyIM88pYDMpZTxhpQ" name="Page-1">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -657,12 +657,6 @@
         </mxCell>
         <mxCell id="y4ZUSOej08WgzMxHnMIS-10" value="models" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-628.5" y="-30" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y4ZUSOej08WgzMxHnMIS-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;categories-form.component&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=14;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-98.5" y="286" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="y4ZUSOej08WgzMxHnMIS-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;categories-list.component&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=14;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-98.5" y="314" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y4ZUSOej08WgzMxHnMIS-13" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="-438" y="1" width="159" height="210" as="geometry" />
